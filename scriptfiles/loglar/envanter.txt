@@ -1,0 +1,10 @@
+[17:29 30/08/2019] ENV-VER> Vengeance Test - esya: Boombox miktar: 1
+[03:36 31/08/2019] ENV-VER> Gerald Phelps - esya: Desert Eagle miktar: 1
+[03:36 31/08/2019] ENV-VER> Gerald Phelps - esya: 9mm Mermisi miktar: 50
+[03:36 31/08/2019] ENV-MIKTARAZALT> Gerald Phelps - esya: 9mm Mermisi miktar: 50
+[03:36 31/08/2019] ENV-MIKTARAZALT> Gerald Phelps - esya: Desert Eagle miktar: 1
+[03:33 05/09/2019] ENV-MIKTARAZALT> Barbara Fitzgerald - esya: Býçak miktar: 1
+[16:43 06/09/2019] ENV-VER> Barbara Fitzgerald - esya: Hazýr Yemek miktar: 1
+[16:43 06/09/2019] ENV-VER> Barbara Fitzgerald - esya: Yem miktar: 50
+[22:06 07/09/2019] ENV-VER> Barbara Fitzgerald - esya: Býçak miktar: 1
+[22:06 07/09/2019] ENV-MIKTARAZALT> Barbara Fitzgerald - esya: Býçak miktar: 1

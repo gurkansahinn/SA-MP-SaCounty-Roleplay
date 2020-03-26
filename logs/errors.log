@@ -1,0 +1,4 @@
+[18:40:13] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[18:40:13] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[18:40:13] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
+[18:40:13] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'root'@'localhost' (using password: YES)'
